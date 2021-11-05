@@ -61,6 +61,9 @@ $ npm install || yarn
 
 # Run Aplication
 $ yarn dev
+   
+# Run Json server 
+$ yarn server
 ```
 Go to http://localhost:3000/ to see the application running.
 
