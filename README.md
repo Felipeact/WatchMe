@@ -52,7 +52,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/Felipeact/Dashboard.git && cd dashboard
+$ git clone https://github.com/Felipeact/WatchMe.git 
 
 # Install Dependencies
 $ npm install || yarn 
@@ -69,7 +69,7 @@ Go to http://localhost:3000/ to see the application running.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/Felipeact/Dashboard.git/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/Felipeact/WatchMe.git/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 # :sparkles: Contributing
 
